@@ -30,5 +30,6 @@
  
 <br></br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmatheus9&layout=donut)](https://github.com/anuraghazr/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmatheus9&layout=donut)](https://github.com/anuraghazr/github-readme-stats) <br><br>
+ ![Snake animation](https://github.com/fmatheus9/fmatheus9/blob/output/github-contribution-grid-snake.svg)
 </div>
