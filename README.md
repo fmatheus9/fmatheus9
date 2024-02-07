@@ -1,6 +1,7 @@
 # Olá, eu sou o Matheus Ferrarezi! 👋
 <p>Cursando Ciências da Computação 🔬💻</p>
-<p>19</p>
+<p>19y</p>
+<p>Franca - SP</p>
 <p>Ele/Dele</p>
 
   
@@ -31,5 +32,4 @@
 <br></br>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmatheus9&layout=donut)](https://github.com/anuraghazr/github-readme-stats) <br><br>
- ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 </div>
