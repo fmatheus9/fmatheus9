@@ -1,8 +1,6 @@
 # Olá, eu sou o Matheus Ferrarezi! 👋
-<p>Cursando Ciências da Computação 🔬💻</p>
-<p>19y</p>
-<p>Franca - SP</p>
-<p>Ele/Dele</p>
+<p>Sou aluno Ciências da Computação 🔬💻 no centro universitário Uni-FACEF, cursando atualmente o 3º semestre.</p>
+
 
   
   ##  Contato 🧾
