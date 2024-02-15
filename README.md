@@ -17,7 +17,6 @@
 
 <p align="center">
   
-  <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=fmatheus9&show_icons=true&locale=en&theme=dracula"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=fmatheus9&theme=dracula" />
   
 </p>
