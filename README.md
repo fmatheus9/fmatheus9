@@ -1,5 +1,5 @@
 # Olá, eu sou o Matheus Ferrarezi! 👋
-<p>Sou aluno Ciências da Computação 🔬💻 no centro universitário Uni-FACEF, cursando atualmente o 3º semestre.</p>
+<p>Sou aluno Ciências da Computação 🔬💻 no centro universitário Uni-FACEF, cursando atualmente o 4º semestre.</p>
 
 
   
