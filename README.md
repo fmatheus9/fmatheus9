@@ -4,17 +4,13 @@ Meu nome é Matheus Ferrarezi sou um entusiasta da tecnologia, atualmente focado
 
 # Sobre mim
 🔬 Ciências da Computação - Uni_FACEF. 
+
 💻 Estou estudando as principais linguagens de programação, como Python, JavaScript, e outras ferramentas essenciais no mercado de TI.
+
 🚀 Meu objetivo é colaborar em projetos inovadores e contribuir com soluções que possam impactar positivamente o dia a dia das pessoas.
-🎯 Tenho interesse em desenvolvimento web, automação, e análise de dados, mas estou aberto a explorar novas áreas dentro da tecnologia.
 
-# Projetos
-Aqui você encontrará alguns dos projetos em que estou trabalhando ou que já concluí. Estes projetos são uma demonstração das minhas habilidades em:
+🎯 Tenho interesse em desenvolvimento back-end, automação, e análise de dados, mas estou aberto a explorar novas áreas dentro da tecnologia.
 
-Desenvolvimento de scripts para automação de tarefas.
-Criação de aplicações web simples usando frameworks como Flask ou Django.
-Análise de dados utilizando bibliotecas como Pandas e NumPy.
-Sinta-se à vontade para explorar, deixar feedbacks ou até colaborar comigo!
 
   
   ##  Conecte-se comigo 🧾📫
