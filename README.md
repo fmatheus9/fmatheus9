@@ -5,7 +5,7 @@ Meu nome é Matheus Ferrarezi sou um entusiasta da tecnologia, atualmente focado
 # Sobre mim
 🔬 Ciências da Computação - Uni_FACEF. 
 
-💻 Estou estudando as principais linguagens de programação, como Python, JavaScript, e outras ferramentas essenciais no mercado de TI.
+💻 Estou estudando as principais linguagens de programação, como Python, JAVA, JavaScript, e outras ferramentas essenciais no mercado de TI.
 
 🚀 Meu objetivo é colaborar em projetos inovadores e contribuir com soluções que possam impactar positivamente o dia a dia das pessoas.
 
